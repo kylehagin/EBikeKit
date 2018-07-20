@@ -1,0 +1,20 @@
+Partlist exported from /home/pops/Documents/projects/BikeProject/BikeProject/ExternalMotorControllerRev5.sch at 8/23/15 11:20 PM
+
+Qty Value            Device           Package         Parts                   Description                                       MF                     MPN               OC_FARNELL OC_NEWARK TP_SIGNAL_NAME
+6                    SOLDER_HOLE18AWG SOLDER_HOLE_18  X1, X2, X3, X4, X5, X13                                                                                                                               
+5   .1uF             C-EUC0402        C0402           C3, C6, C23, C24, C25   CAPACITOR, European symbol                                                                                                    
+1   0.1uF            CAP0402          C0402           C5                      Capacitor                                                                                                                     
+1   100E             R-US_R0402       R0402           R17                     RESISTOR, American symbol                                                                                                     
+3   10k              R-US_R0402       R0402           R11, R50, R51           RESISTOR, American symbol                                                                                                     
+1   10uF             C-EUC0805        C0805           C2                      CAPACITOR, European symbol                                                                                                    
+1   16MHz KX-7       CRYSTAL-3.2-2.5  CRYSTAL-3.2-2.5 Y3                                                                                                                                                    
+1   1M               R-US_R0402       R0402           R19                     RESISTOR, American symbol                                                                                                     
+1   1uF              CAP0402          C0402           C4                      Capacitor                                                                                                                     
+2   22pF             C-EUC0402        C0402           C1, C12                 CAPACITOR, European symbol                                                                                                    
+1   CP2102           CP210X_USB_UART  MLP28           U1                      Single-Chip USB to UART Bridge                                                                                                
+1   LM2936MM-5.0     LM2936MM-5.0     MINI-SO8        IC1                     Ultra-Low Quiescent Current LDO Voltage Regulator NATIONAL SEMICONDUCTOR LM2936MM-5.0/NOPB 1312707    41K4518                 
+1   MBR0520          MBR0520          SOD-123         D3                                                                                                                                                    
+1   MEGA48/88/168-AU MEGA48/88/168-AU TQFP32-08       IC2                                                                                                                                                   
+1   SIR662DP         SIR662DP         POWERPAK_SO8    VT1                                                                                                                                                   
+4   TPTP08R          TPTP08R          TP08R           +5V, MISO, MOSI, SCK    Test pad                                                                                                                      
+2   TPTP10R          TPTP10R          TP10R           GND, RST                Test pad                                                                                                                      

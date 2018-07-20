@@ -1,0 +1,41 @@
+Partlist exported from /home/jinn/Documents/projects/BikeProject/ExternalMotorController.sch at 11/11/14 12:16 AM
+
+Qty Value                            Device                           Package         Parts                        Description                                            TP_SIGNAL_NAME
+1                                    LTC3630                          MSE16(12)       DA2                                                                                               
+1                                    RCL_C-USC0805                    RCL_C0805$1     C20                          CAPACITOR, American symbol                                           
+6                                    SOLDER_HOLE18AWG                 SOLDER_HOLE_18  X1, X2, X3, X4, X5, X13                                                                           
+1   0.1uF                            C-USC0402                        C0402           C22                          CAPACITOR, American symbol                                           
+2   100E                             R-US_R0402                       R0402           R17, R21                     RESISTOR, American symbol                                            
+6   100n                             C-EUC0402                        C0402           C1, C2, C6, C9, C10, C11     CAPACITOR, European symbol                                           
+4   10K                              R-EU_R0402                       R0402           R1, R2, R3, R4               RESISTOR, European symbol                                            
+2   10k                              R-US_R0402                       R0402           R50, R51                     RESISTOR, American symbol                                            
+1   10uF*                            RCL_C-USC4532                    RCL_C4532$1     C21                          CAPACITOR, American symbol                                           
+1   14.3k                            RCL_R-US_R0402                   RCL_R0402       R44                          RESISTOR, American symbol                                            
+1   16MHz KX-7                       CRYSTAL-3.2-2.5                  CRYSTAL-3.2-2.5 Y3                                                                                                
+4   1K                               R-EU_R0402                       R0402           R5, R6, R7, R8               RESISTOR, European symbol                                            
+2   1M                               R-US_R0402                       R0402           R18, R19                     RESISTOR, American symbol                                            
+2   1uF                              C-EUC0402                        C0402           C5, C7                       CAPACITOR, European symbol                                           
+1   200k                             RCL_R-US_R0402                   RCL_R0402       R43                          RESISTOR, American symbol                                            
+1   22R                              4R-NCAY16                        CAY16           RP3                          Array Chip Resistor                                                  
+2   22pF                             C-EUC0402                        C0402           C12, C13                     CAPACITOR, European symbol                                           
+2   22u                              CPOL-EUSMCB                      SMC_B           C3, C14                      POLARIZED CAPACITOR, European symbol                                 
+1   22uH                             M-PAD-2.1_L_USD                  M-PAD-2.1_1210  L1                           Inductors in various packages from:                                  
+1   3x2M                             PINHD-2X3                        2X03            J4                           PIN HEADER                                                           
+1   ATMEGA32U4-XUAU                  ATMEGA32U4-XUAU                  TQFP44-PAD      U1                                                                                                
+1   CD1206-S01575                    DIODE-MINIMELF                   MINIMELF        D2                           DIODE                                                                
+2   CG0603MLC-05E                    VARISTORCN0603                   CT/CN0603       Z1, Z2                       VARISTOR                                                             
+1   FDN340P/PMV48XP                  PMOSSOT23                        SOT-23          T1                           MOS FET                                                              
+1   FIDUCIAL1X2                      FIDUCIAL1X2                      FIDUCIAL-1X2    U$53                         Fiducial Alignment Points                                            
+1   FIDUCIALMOUNT                    FIDUCIALMOUNT                    FIDUCIA-MOUNT   U$37                                                                                              
+1   MF-MSMF050-2 500mA               L-EUL1812                        L1812           F1                           INDUCTOR, European symbol                                            
+1   MH2029-300Y                      WE-CBF_0805                      0805            L2                           SMD EMI Suppression Ferrite Beads                                    
+1   MICRO_USB                        MICRO_USB                        MICRO_USB       U$69                                                                                              
+1   NCP1117-5                        LINEAR_MC33269ST                 LINEAR_SOT223   U2                           Adjustable Output Low Dropout Voltage Regulator 800 mA               
+1   PMV48XP                          PMOSSOT23                        SOT-23          T2                           MOS FET                                                              
+1   RGHT-ANGLE-SMT-SWITCH-688-SKRELF RGHT-ANGLE-SMT-SWITCH-688-SKRELF 2.9X3.9X2.0     U$16                                                                                              
+2   SIR662DP                         SIR662DP                         POWERPAK_SO8    VT1, VT2                                                                                          
+6   TPSQTP15SQ                       TPSQTP15SQ                       TP15SQ          TP1, TP2, TP3, TP4, TP5, TP6 Test pad                                                             
+1   WSL12061L000FTA18                R-US_R2512                       R2512           R13                          RESISTOR, American symbol                                            
+1   blue                             LEDCHIPLED_0805                  CHIPLED_0805    ON                           LED                                                                  
+1   green                            LEDCHIPLED_0805                  CHIPLED_0805    L                            LED                                                                  
+2   yellow                           LEDCHIPLED_0805                  CHIPLED_0805    RX, TX                       LED                                                                  
